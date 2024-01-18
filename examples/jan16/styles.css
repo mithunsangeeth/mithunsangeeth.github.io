@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(images/Cars.jpeg);
+}
+
+
+/* Structure */
+
+#content {
+    background: #FFF5E6;
+    padding: 5px;
+    width: 80%;
+    /* Centre Horizontally*/
+    margin: auto; 
+    border-radius: 5px;
+}
+
+
+/* Navigation */
+ 
+#main-nav a {
+    text-decoration: none; /* Removes the underline*/
+    background: beige;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+#mian-nav a:hover {
+    background: coral;
+}
+
+/* Typography */
+
+h1 {
+    color: #00BFFF;
+}
+
+.special {
+    color: aquamarine;
+}

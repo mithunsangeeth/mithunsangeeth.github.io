@@ -1,0 +1,134 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ADD8E6;
+  }
+  
+  h1, h2 {
+    color: #333;
+    margin: 16px 0px;
+    padding: 0px;
+  }
+  
+  nav {
+    background-color: #F5F5DC;
+  }
+  
+  nav a {
+    color: #7B2514;
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #9F8C76;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #104447;
+  }
+  
+  th {
+    background-color: #F0EADD;
+    color: #58ADB2;
+  }
+  
+  img {
+    max-width: 80%;
+    height: auto;
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 16px;
+        background-image: url('https://source.unsplash.com/random/1600x900');
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+    }
+      
+      h1 {
+        text-align: center;
+        margin-top: 32px;
+        color: #3F3F3F;
+      }
+      
+      nav {
+        text-align: center;
+        margin-top: 32px;
+      }
+      
+      nav a {
+        padding: 8px 16px;
+        text-decoration: none;
+        color: #FFFFFF;
+        background-color: #3F3F3F;
+        border-radius: 4px;
+        margin: 0 8px;
+      }
+      
+      nav a:hover {
+        background-color: #707070;
+      }
+      
+      .content {
+        margin-top: 32px;
+        padding: 16px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 4px;
+      }
+      
+      .content h2 {
+        color: #3F3F3F;
+      }
+      
+      .content p {
+        color: #3F3F3F;
+        line-height: 1.5;
+      }
+      
+      .image-container {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 32px;
+      }
+      
+      .image-container img {
+        width: 48%;
+        border: 1px solid #CCCCCC;
+        padding: 8px;
+        border-radius: 4px;
+      }
+      
+      table {
+        margin-top: 32px;
+        border-collapse: collapse;
+        width: 100%;
+        background-color: #F5F5F5;
+      }
+      
+      th, td {
+        border: 1px solid #CCCCCC;
+        padding: 8px;
+        text-align: left;
+      }
+      
+      th {
+        background-color: #3F3F3F;
+        color:
+      }
