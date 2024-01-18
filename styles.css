@@ -1,0 +1,35 @@
+body {
+	font-family: 'Georgia', serif;
+	color: #663300;
+	background-color: #ffeecc;
+}
+
+a {
+	color: #663300;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #cc6600;
+}
+
+#content {
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #ffffff;
+	border: 1px solid #663300;
+	border-radius: 10px;
+}
+
+#assignment1 {
+	color: #cc6600;
+}
+
+#assignment2 {
+	color: #666600;
+}
+
+#assignment3 {
+	color: #003366;
+}
