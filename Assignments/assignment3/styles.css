@@ -5,11 +5,11 @@
 body {
 	margin: 0;
 	font-family: Arial, sans-serif;
-	background-color: #f2f2f2;
+	background-color: #6A9BCC;
 }
 
 header {
-	background-color: #333;
+	background-color: #225E99;
 	color: #fff;
 	padding: 1rem;
 	display: flex;
@@ -29,7 +29,7 @@ nav li {
 }
 
 nav a {
-	color: #fff;
+	color: #9EFFFC;
 	text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ main {
 .column {
 	flex: 1 0 300px;
 	margin-right: 1rem;
-	background-color: #fff;
+	background-color: #FFE5DE;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 	padding: 1rem;
 	margin-bottom: 2rem;
