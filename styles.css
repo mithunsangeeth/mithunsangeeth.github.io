@@ -8,14 +8,14 @@ body {
 }
 
 header {
-	background-color: #f8f9fa;
+	background-color: #E37D64;
 	padding: 20px;
 	text-align: center;
 	width: 100%;
 }
 
 nav {
-	background-color: #e9ecef;
+	background-color: #FDE7BB;
 	padding: 20px;
 	text-align: center;
 	width: 100%;
@@ -30,8 +30,8 @@ main {
 }
 
 section {
-	background-color: #f1f3f5;
-	border: 1px solid #dee2e6;
+	background-color: #FFFFFF;
+	border: 1px solid #D1FFD6;
 	border-radius: 5px;
 	flex-basis: 30%;
 	margin-bottom: 20px;
@@ -39,7 +39,7 @@ section {
 }
 
 footer {
-	background-color: #f8f9fa;
+	background-color: #2D4262;
 	padding: 20px;
 	text-align: center;
 	width: 100%;
